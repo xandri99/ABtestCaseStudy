@@ -25,8 +25,6 @@ potential from the new UI.
 
 ## Project structure:
 ```yml
-├── data/
-├── docs/
 ├── Makefile
 ├── notebooks/
 │   └── ABtesting_Analysis.ipynb
