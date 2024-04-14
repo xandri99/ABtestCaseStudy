@@ -14,6 +14,13 @@ While basic engagement metrics such as Retention Rate, Conversion Rate and ARPU 
 across all segments, Segment 2 stood out significantly in terms of Life Time Value of user (LTV), and
 its derived metric averaged Life Time Value of user (aLTV). This segment showed an enhanced LTV,
 pointing to a greater potential for revenue growth.
+We conducted a statistical significance verification of these results using ANOVA, which showed that
+the observed different in LTV across segments was not significant. To further asses this results, I opted
+for a less conventional approach using Random Forest models to test LTV as a key differentiator in
+spending behaviors among segments.
+Thus, this analysis seems to indicate that users in Segment 2, exposed to tutorial-based features, show
+a tendency to higher spending. This seems to implicate a potential pronounced increase in revenue
+potential from the new UI.
 
 
 ## Project structure:
